@@ -9,6 +9,8 @@ namespace DemoGithub
             Console.WriteLine("Hello Github!");
 
             Console.WriteLine("Does this work?");
+
+            Console.WriteLine("What about now!");
         }
     }
 }
